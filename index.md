@@ -13,5 +13,12 @@
 
 També es pot consultar l'enllaç a la [documentació oficial de GitHub Actions](https;//docs.github.com/es/actions).
 
+### Tutories Colectives de la quinzena 19/10/26 al 01/11/26
+
++ Dijous 22/11/26 a les 16:05
++ Dimarts 27/11/26 a les 13:05
+
+
+
 
 
